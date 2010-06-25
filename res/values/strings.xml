@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, openamd!</string>
+    <string name="app_name">OpenAMD</string>
+<string name="dialog_about">Welcome to the OpenAMD Android Project. I Hope you enjoy your stay!</string>
+</resources>
